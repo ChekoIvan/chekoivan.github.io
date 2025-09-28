@@ -5,8 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/chekoivan.github.io' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '/chekoivan.github.io' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '' : '',
 }
 
 module.exports = nextConfig
