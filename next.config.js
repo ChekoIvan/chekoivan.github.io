@@ -5,8 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  // Configuration for custom domain deployment (chekoivan.dev)
-  // No assetPrefix or basePath needed for custom domains
+  // Configuration for GitHub Pages deployment with custom domain
+  distDir: 'out'
 }
 
 module.exports = nextConfig
