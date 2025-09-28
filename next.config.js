@@ -5,8 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  assetPrefix: process.env.NODE_ENV === 'production' ? '' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '' : '',
+  // Configuration for custom domain deployment (chekoivan.dev)
+  // No assetPrefix or basePath needed for custom domains
 }
 
 module.exports = nextConfig

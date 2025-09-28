@@ -15,7 +15,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 - **Framework**: Next.js 14
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **Deployment**: GitHub Pages
+- **Deployment**: GitHub Pages (chekoivan.dev)
 - **CI/CD**: GitHub Actions
 
 ## 📦 Getting Started
@@ -47,7 +47,7 @@ yarn dev
 
 ## 🚀 Deployment
 
-This project is automatically deployed to GitHub Pages using GitHub Actions. Every push to the `main` branch triggers a deployment.
+This project is automatically deployed to GitHub Pages using GitHub Actions. Every push to the `main` branch triggers a deployment to [chekoivan.dev](https://chekoivan.dev).
 
 ### Manual Deployment
 
